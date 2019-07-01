@@ -18,7 +18,7 @@ ___
 
 While it misses a few files (I think this may be due to the it not being in the repo itself), out of 1034 files it moved all but few for me.
 
-![](leetcode.png)
+![](https://github.com/tlscripts/leetcodetool/blob/master/leetcode.png)
 
 
 
